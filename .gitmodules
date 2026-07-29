@@ -5,4 +5,4 @@
 [submodule "BIOSZEN"]
 	path = BIOSZEN
 	url = https://github.com/bioszen/BIOSZEN
-	branch = *release
+	branch = v2.0.4
